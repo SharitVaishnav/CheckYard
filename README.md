@@ -3,7 +3,7 @@
 ### 🎯 Goal
 The primary goal of this project is to develop a comprehensive predictive maintenance solution for industrial equipment, specifically focusing on turbofan engines, by leveraging machine learning techniques to predict remaining useful life (RUL) and classify engine health conditions. This solution aims to enhance equipment reliability, optimize maintenance schedules, and minimize downtime, thereby improving operational efficiency and reducing costs.
 
-
+![Landing Page](https://github.com/SharitVaishnav/CheckYard/assets/149710322/71589cde-85a7-4abf-a4ed-385ecacfcc07)
 
 ### 🎯 Purpose
 The purpose of this project is to provide a robust and user-friendly web application that enables users to proactively monitor and manage the health of industrial equipment.
